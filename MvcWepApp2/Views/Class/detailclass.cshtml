@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "detailclass";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>detailclass</h2>
+@using (Html.BeginForm("ProgramEkle" , "Class" , FormMethod.Post)) 
+     { 
+ <div class="row">
+            <input class="hidden" name="Id" value="@Convert.ToInt32(Request.QueryString["Id"])"/>
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label>Ders Baslangici</label>
+                    <input type = "datetime-local" name= "dersbaslangic" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label>Ders Bitiş</label>
+                    <input type = "datetime-local" name= "dersbitis" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label>Ders Adı</label>
+                    <input type = "text" name= "dersadi" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label>Ders Programı</label><br/>
+                    <button class="btn btn-primary">Kaydet</button>
+                </div>
+            </div>
+        </div>
+       }

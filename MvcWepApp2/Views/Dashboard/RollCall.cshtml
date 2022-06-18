@@ -1,0 +1,109 @@
+﻿@using MvcWepApp2.Models,
+@model List<DersProgrami>
+@{
+    ViewBag.Title = "RollCall";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>RollCall</h2>
+
+<div class="row">
+
+
+    <div class="col-md-6">
+
+        <h3="text-center">Ders Programınız</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <td>Sınıf Adı</td>
+                    <td>Ders Adı</td>
+                    <td>Ders Başlangıcı</td>
+                    <td>Ders Bitişi</td>
+
+
+
+                </tr>
+
+            </thead>
+            
+            @foreach (DersProgrami _dersprogrami in Model)
+            {
+                <tr>
+                   
+                    <td>
+                     @_dersprogrami.SinifAdi
+                    </td>
+                    <td>
+                        @_dersprogrami.DersAdi
+                    </td>
+                    <td>
+                        @_dersprogrami.Baslangic.ToString("dd-MM-yyyy HH;mm")
+                    </td>
+
+                    <td>
+                        @_dersprogrami.Bitis.ToString("dd-MM-yyyy HH;mm")
+                    </td>
+                  
+                    <td>
+                        @if (DateTime.Now > _dersprogrami.Baslangic)
+                        {
+                            <a onclick="OgrencileriGetirSinifId(@_dersprogrami.SinifId)" class="btn btn-sm btn-warning">Seç</a>
+
+                        }
+                        else
+                        {
+
+                            <a href="#" class="btn btn-sm btn-warning" disabled>Seç</a>
+
+
+                        }
+                    </td>
+                </tr>
+            }
+
+
+
+           </tbody>
+        </table>
+
+
+
+    </div>
+
+    <div class="col-md-6">
+
+
+
+        <h3 class="text-center">Yoklama Listesi</h3>
+        <table class="table table-striped">
+          
+                <tr>
+                    <td>Ogrenci Id</td>
+                    <td>Ogrenci Adi</td>
+                    <td>Ogrenci Soyadi</td>
+                    <td>Ogrenci Numarasi</td>
+
+
+
+                </tr>
+
+            <tbody id="tOgrenciListesi"></tbody>
+            </table>
+
+
+
+    </div>
+
+
+
+</div>
+<script type="text/javascript">
+    function OgrencileriGetirSinifId(SinifId,dersId) {
+        Ajax('/Dashboard/OgrenciListesiGetir', "{ SinifId: " + SinifId + " }", false, 'tOgrenciListesi');
+        alert("Sinif Id: " + SinifId);
+        alert("ders Id: " + dersId);
+    }
+
+
+</script>

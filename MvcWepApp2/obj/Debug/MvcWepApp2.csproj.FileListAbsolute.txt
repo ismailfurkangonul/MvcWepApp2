@@ -1,0 +1,893 @@
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\UgurcanOzcan\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\55\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\CASPER\Desktop\SOFTWARE LESSONS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\CASPER\Desktop\MVC APPS\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\software\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\CASPER\Desktop\furkan\LAST PROJECT MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.dll
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.xml
+C:\Users\ARIBILGI\Desktop\software\Yeni klasör\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+E:\MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+E:\MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+E:\MVC\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+C:\Users\ARIBILGI\Desktop\mvc\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll.config
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\MvcWepApp2.pdb
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.exe.config
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\csc.rsp
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.exe.config
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\csi.rsp
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.AppContext.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Console.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Http.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.ValueTuple.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.exe.config
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\vbc.rsp
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\WebGrease.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Net.Http.Formatting.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Http.WebHost.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Helpers.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Mvc.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Optimization.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.Razor.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\System.Web.WebPages.Razor.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Newtonsoft.Json.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Antlr3.Runtime.pdb
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.AssemblyReference.cache
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CoreCompileInputs.cache
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.csproj.CopyComplete
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.dll
+E:\MVC\Yeni klasör (2)\MvcWepApp2\MvcWepApp2\obj\Debug\MvcWepApp2.pdb
