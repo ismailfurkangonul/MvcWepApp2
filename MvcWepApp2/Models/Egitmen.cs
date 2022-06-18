@@ -76,7 +76,7 @@ namespace MvcWepApp2.Models
         {
             try
             {
-
+                //Eğitmen eklendi
                 return data.SetExecuteNonQuery("Insert into Egitmen (EgitmenAdi, EgitmenSoyadi,SinifId) values(@egitmenadi, @egitmensoyadi,@sinifid)",
                 CommandType.Text,
                 new SqlParameter("@egitmenadi", Ad),
