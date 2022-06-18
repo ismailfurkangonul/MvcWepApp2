@@ -59,7 +59,7 @@ namespace MvcWepApp2.Models
         {
             try
             {
-
+                //Ders programi ekleme
                 return data.SetExecuteNonQuery("Insert into DersProgrami (Baslangic,Bitis,DersAdi,SinifId) values(@baslangic,@bitis,@dersadi,@sinifid)",
                 CommandType.Text,
                 new SqlParameter("@baslangic", Baslangic),
